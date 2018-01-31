@@ -1,0 +1,13 @@
+{
+    "name": "adewaleabdrade/php-ml-demo",
+    "description": "PHP machine learning demo",
+    "require": {
+        "php-ai/php-ml": "^0.5.0"
+    },
+    "authors": [
+        {
+            "name": "Adewale Andrade",
+            "email": "adewale.andrade@gmail.com"
+        }
+    ]
+}
