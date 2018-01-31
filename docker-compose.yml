@@ -1,0 +1,10 @@
+version: '2'
+services:
+  php7_ml:
+    image: danielsamson/docker-php-7-1
+    container_name: php7_ml
+    volumes:
+      - .:/var/www/html
+
+    ports:
+      - "7000:80"
